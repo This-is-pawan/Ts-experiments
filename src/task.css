@@ -1,0 +1,18 @@
+*{
+ margin: 0;
+ box-sizing: border-box;
+}
+a{
+ text-decoration: none;
+ align-items: center;
+}
+h1{
+ text-align: center;
+}
+.form{
+ width: 80vw;
+ text-align: center;
+ height: 5rem;
+ margin: 2rem auto;
+box-shadow: 2px 2px 5px pink;
+}

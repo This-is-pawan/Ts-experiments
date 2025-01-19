@@ -6,10 +6,10 @@ import './01ex.ts'
 // import './02ex.tss'
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
-    <a href="https://vite.dev" target="_blank">
+    <a href="src/tasks" target="_blank">
       <img src="${viteLogo}" class="logo" alt="Vite logo" />
     </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
+    <a href="src/tasks" target="_blank">
       <img src="${typescriptLogo}" class="logo vanilla" alt="TypeScript logo" />
     </a>
     <h1>Vite + TypeScript</h1>
